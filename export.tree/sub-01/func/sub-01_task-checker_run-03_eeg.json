@@ -1,8 +1,0 @@
-{
-    "SamplingFrequency": 200.0,
-    "StartTime": 0,
-    "Columns": [
-        "time",
-        "occipital eeg",
-    ]
-}
